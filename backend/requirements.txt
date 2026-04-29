@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+fastapi
+uvicorn[standard]
+httpx
+httpx-sse
+
+openai
+pyyaml
+python-multipart
+
+langchain-ollama
